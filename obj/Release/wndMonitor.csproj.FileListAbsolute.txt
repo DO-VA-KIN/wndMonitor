@@ -1,0 +1,14 @@
+C:\Users\Gimn4\Desktop\wndMonitor\bin\Release\FleshDefender.exe.config
+C:\Users\Gimn4\Desktop\wndMonitor\bin\Release\FleshDefender.exe
+C:\Users\Gimn4\Desktop\wndMonitor\bin\Release\FleshDefender.pdb
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\MainWindow.g.cs
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\App.g.cs
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\FleshDefender_MarkupCompile.cache
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\FleshDefender_MarkupCompile.lref
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\MainWindow.baml
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\FleshDefender.g.resources
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\FleshDefender.Properties.Resources.resources
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\wndMonitor.csproj.GenerateResource.cache
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\wndMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\FleshDefender.exe
+C:\Users\Gimn4\Desktop\wndMonitor\obj\Release\FleshDefender.pdb
